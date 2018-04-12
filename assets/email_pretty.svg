@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="White" viewBox="0 0 400 400" width="<%= size %>" height="<%= size %>">
+    <style id="style2"/>
+    <path id="rect4210" fill="#fff" stroke-width="6.115" d="M.831 1.605h407.514v395.336H.831z"/>
+    <path id="rect38" fill="#ececec" fill-opacity=".795" d="M0 80h400v240H0z"/>
+    <path d="M0 80h200l100-80H0v240h400V800 80h200l100-80H0v240h400V80" id="path42" fill="none" stroke="#000" stroke-width="8"/>
+</svg>
